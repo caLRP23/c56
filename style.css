@@ -1,0 +1,26 @@
+
+body {
+    text-align: center;
+    background-color: #f0e8c5;
+  }
+
+  div {
+    margin-top: 15px;
+  }
+
+  
+  .image-section {
+  /* Corrija o valor de exibição como flex */
+    display: flex;
+  /* Corrija o valor justify-content como center */	  
+  justify-content: center;
+  }
+
+  .section-style {
+  /* Corrija o nome das propriedades para
+margem direita e margem esquerda, lembre que os comandos têm que ser em inglês */
+    margin-right: 25px;
+    margin-left: 25px;
+  /* Corrija o nome da propriedade: cor de fundo */
+      background-color: white;
+  }
